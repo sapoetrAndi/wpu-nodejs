@@ -1,0 +1,9 @@
+Belajar NodeJS | 1. Apa Itu NodeJS?
+pembuat NodeJS Ryan Dahl pada tahun 2009
+NodeJS adalah javascript runtime yang dibangun/dibuat didalam javascript engine yang bernama V8 milik google chrome
+
+penjelasan lain adalah sebuah runtime untuk membuat aplikasi yang asyncrounous
+
+apa itu runtime?
+sebuah konteks/tempat dimana kita dapat menjalankan/mengeksekusi code javascript kita
+
